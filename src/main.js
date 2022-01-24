@@ -14,3 +14,4 @@ app.use(router);
 app.use(quasar);
 
 app.mount('#app');
+

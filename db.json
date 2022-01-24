@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "customerName": "客戶1",
+      "customerCategory": "民營",
+      "licences": "12345678",
+      "contact": "Sherry",
+      "occupation": "Manager",
+      "permissions": "A採購決策者",
+      "mobile": "886 - 912345678",
+      "updateTime": "2022-01-20T10:00:20.800Z"
+    },
+    {
+      "id": 1642731831991,
+      "updateTime": "2022-01-21T02:23:51.991Z",
+      "customerName": "客戶2",
+      "customerCategory": "國企",
+      "licences": "222222",
+      "contact": "Ho",
+      "occupation": "Manager",
+      "permissions": "A採購決策者",
+      "mobile": "09123456789"
+    },
+    {
+      "id": 1642731832000,
+      "updateTime": "2022-01-21T02:23:51.991Z",
+      "customerName": "客戶4",
+      "customerCategory": "國企",
+      "licences": "333333",
+      "contact": "Wendy",
+      "occupation": "Manager",
+      "permissions": "A採購決策者",
+      "mobile": "09123456789"
+    },
+    {
+      "id": 1642743167781,
+      "updateTime": "2022-01-21T05:32:47.781Z",
+      "customerName": "客戶5",
+      "customerCategory": "國企",
+      "licences": "1243124",
+      "contact": "Titan",
+      "occupation": "CEO",
+      "permissions": "B",
+      "mobile": "091234567"
+    },
+    {
+      "id": 1642743544818,
+      "updateTime": "2022-01-21T05:39:04.818Z",
+      "customerName": "客戶5",
+      "customerCategory": "國企",
+      "licences": "55555",
+      "contact": "Andy",
+      "occupation": "junior",
+      "permissions": "B",
+      "mobile": "111111"
+    },
+    {
+      "id": 1642743680971,
+      "updateTime": "2022-01-21T05:41:20.971Z",
+      "customerName": "1",
+      "customerCategory": "國企",
+      "licences": "1",
+      "contact": "1",
+      "occupation": "1",
+      "permissions": "B",
+      "mobile": "1"
+    },
+    {
+      "id": 1642743772073,
+      "updateTime": "2022-01-21T05:42:52.073Z",
+      "customerName": "4",
+      "customerCategory": "國企",
+      "licences": "4444",
+      "contact": "4",
+      "occupation": "4",
+      "permissions": "B",
+      "mobile": "444444"
+    },
+    {
+      "id": 1642743870743,
+      "updateTime": "2022-01-21T05:44:30.743Z",
+      "customerName": "客戶6",
+      "customerCategory": "國企",
+      "licences": "666666",
+      "contact": "Mr.xxx",
+      "occupation": "manager",
+      "permissions": "A採購決策者",
+      "mobile": "333333"
+    },
+    {
+      "id": 1642743959109,
+      "updateTime": "2022-01-21T05:45:59.109Z",
+      "customerName": "客戶8",
+      "customerCategory": "民營",
+      "licences": "1231",
+      "contact": "123",
+      "occupation": "123",
+      "permissions": "A採購決策者",
+      "mobile": "1231231"
+    },
+    {
+      "id": 1643011929127,
+      "updateTime": "2022-01-24T08:12:09.127Z",
+      "customerName": "客戶10",
+      "customerCategory": "民營",
+      "licences": "10101010",
+      "contact": "Titan",
+      "occupation": "Manager",
+      "permissions": "B",
+      "mobile": "1234567"
+    }
+  ]
+}
